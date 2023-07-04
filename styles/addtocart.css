@@ -155,6 +155,42 @@ button:hover{
     object-fit: cover;
     object-position: center;
 }
+.resma1{
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    right: 400px;
+    top: -80px;
+    height: 200px;
+    width: 270px;
+}
+.resma2{
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    right: 400px;
+    top: -50px;
+    height: 200px;
+    width: 270px;
+}
+.resma3{
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    right: 715px;
+    top: -250px;
+    height: 200px;
+    width: 270px;
+}
+.resma4{
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    right: 715px;
+    top: 120px;
+    height: 200px;
+    width: 270px;
+}
 .bottom{
     margin-top: 20px;
     width: 100%;
